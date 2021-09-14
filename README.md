@@ -1,2 +1,2 @@
 # code-refactor-octo
-Refactoring a completed size for accessibility
+Refactoring a completed site for accessibility
