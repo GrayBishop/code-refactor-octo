@@ -18,6 +18,7 @@ p {
     font-size: 16px;
 }
 
+
 /* Update header styling here! */
 header {
     padding: 20px;
@@ -35,6 +36,8 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
+
+/* Navigation Styling */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -51,6 +54,7 @@ header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
+
 
 /* Hero image styling */
 .hero {
@@ -125,7 +129,7 @@ header nav ul li {
 }
 
 
-/* Update footer styling here! */
+/* Footer Styling */
 footer {
     padding: 30px;
     clear: both;
